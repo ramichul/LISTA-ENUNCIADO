@@ -162,7 +162,7 @@ El programa empieza por imprimir un mensaje de bienvenida. Luego, controla que l
 ![](https://i.imgur.com/FINv5Lr.png)
 
 
-Si se pasan los controles iniciales, se empiezan a leer los Pokémon del archivo especificado, y se guardan dentro de un tp1_t utilizando *tp1_leer_archivo()* (Proceso detallado en [este proyecto](https://github.com/ramichul/TP1-ENUNCIADO/settings)). 
+Si se pasan los controles iniciales, se empiezan a leer los Pokémon del archivo especificado, y se guardan dentro de un tp1_t utilizando *tp1_leer_archivo()* (Proceso detallado en [este proyecto](https://github.com/ramichul/TP1-ENUNCIADO)). 
 
 
 Se crea la lista, y se cargan los Pokémon utilizando la función *cargar_pokedex_en_lista()*:
